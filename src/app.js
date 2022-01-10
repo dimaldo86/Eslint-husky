@@ -19,7 +19,9 @@ const arrow = (y) => {
 const obj = {
 	name:'Dima',
 }
-const name = obj.name
+const name = obj.name;
+
+console.log(obj);
 
 
 
